@@ -11,7 +11,7 @@ pygame.display.set_caption('Python game')
 
 #set framerate
 clock = pygame.time.Clock()
-FPS = 120
+FPS = 60
 
 #define player action variables
 moving_left = False
